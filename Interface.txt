@@ -1,0 +1,24 @@
+É como uma classe base que serve de molde para várias classes.
+
+Uma classe que implementa uma interface deve implementar todos os membros.
+
+interface IPessoa
+{
+	void Nome(string nome);
+	void Idade(int idade);
+
+
+}
+
+class Pessoa = IPessoa
+
+	public string nome;
+	public int idade;
+
+	void IPessoa.Nome(string nome)
+	{
+		this.nome = nome;
+	}
+	
+	void IPessoa.Idade
+	

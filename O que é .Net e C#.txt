@@ -1,0 +1,30 @@
+O que é .Net?
+
+ É um framework criado pela Microsoft que permite a comunicação entre várias linguagens que tem uma
+infraestrutura comunm (CLI), entre elas o Visual Basic, C++, F# e C#.
+
+O que é C#?
+
+ Uma linguagem orientada a objetos fortemente tipada. A sintaxeorientada a objetos foi baseada no
+C# e possui influencia de outras linguagens de programação como Objet Pascal e Java.
+
+
+
+
+template está disponivél de acordo com quais areas de trabalho tem n VS
+
+
+
+Uma solução é um container para organizar os projetos relacionados.
+
+
+
+Os diretórios e arquivos do projeto podem ser vistos pelo gerenciador de soluções, que pode ser acessado
+pelo menu Exibir.
+
+No gerenciador de soluções podemos adicionar mais projetos, classes ao projeto, diretórios, e mexer no 
+projeto de forma geral.
+
+
+
+

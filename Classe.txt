@@ -1,0 +1,4 @@
+Uma classe  pode ter campos, propriedades, métodos e eventos dentro dela que são denominados membros.
+
+E quando uma classe é instanciada, essa é chamada de objeto, e nesse objeto podem ser criados os valores 
+de acordo com os campos da classe.
